@@ -6,8 +6,8 @@
     },
     
     {
-      "src": "/mall",
-      "dest": "https://play.geforcenow.com/mall/"
+      "src": "/mall:match*",
+      "dest": "https://play.geforcenow.com/mall/:match*"
     }
   ]
 }
