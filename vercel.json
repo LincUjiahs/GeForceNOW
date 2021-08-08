@@ -3,6 +3,11 @@
     {
       "src": "/",
       "dest": "https://play.geforcenow.com/"
+    },
+    
+    {
+      "src": "/mall"
+      "dest": "https://playgeforcenow.com/mall/"
     }
   ]
 }
