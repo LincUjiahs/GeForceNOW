@@ -6,7 +6,7 @@
     },
     
     {
-      "src": "mall/",
+      "src": "/mall",
       "dest": "https://play.geforcenow.com/mall/"
     }
   ]
