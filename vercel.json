@@ -1,7 +1,7 @@
 {
   "routes": [
     {
-      "src": "/:path",
+      "src": "/",
       "dest": "https://play.geforcenow.com/"
     }
   ]
