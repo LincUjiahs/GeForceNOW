@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/:path*",
-      "dest": "https://play.geforcenow.com"
+      "dest": "https://play.geforcenow.com/"
     }
   ]
 }
