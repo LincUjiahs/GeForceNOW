@@ -5,8 +5,12 @@
       "dest": "https://play.geforcenow.com/"
     },
     {
-      "src": "/mall",
+      "src": "/mall/",
       "dest": "https://play.geforcenow.com/mall/"
+    },
+    {
+      "src": "/:slug",
+      "dest": "https://play.geforcenow.com/"
     }
   ]
 }
