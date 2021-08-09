@@ -1,13 +1,8 @@
 {
   "routes": [
     {
-      "src": "/",
-      "dest": "https://play.geforcenow.com/"
-    },
-    
-    {
-      "src": "/mall/:path",
-      "dest": "https://play.geforcenow.com/mall/"
+      "src": "/:path*",
+      "dest": "https://play.geforcenow.com"
     }
   ]
 }
