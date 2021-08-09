@@ -9,8 +9,8 @@
       "dest": "https://play.geforcenow.com/mall/"
     },
     {
-      "src": "/:slug",
-      "dest": "https://play.geforcenow.com/"
+      "src": "/(.*)",
+      "dest": "https://play.geforcenow.com$1"
     }
   ]
 }
